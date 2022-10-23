@@ -10,7 +10,7 @@ I enjoy working in the social development space:couple::couple: and particularly
 
 ### 📫 How to reach me: <br/>
 I build my writing :pencil2::page_with_curl: muscle on [Medium](https://medium.com/@ashnjoroge).<br/>
-You can say hi:wave: on [LinkedIn](https://www.linkedin.com/in/ashley-njeri-njoroge-404468187/) :earth_africa: 
+You can also say hi:wave: on [LinkedIn](https://www.linkedin.com/in/ashley-njeri-njoroge-404468187/) :earth_africa: 
 <br/>
 
 ### :smiley_cat:_Cheers!_ :+1: :star2:
