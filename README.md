@@ -1,11 +1,9 @@
-# Hey there👋, I'm Ashley :smiley:
+# Hey there👋, I'm Ashley :sparkles: 
 
-## :sparkles:About me:sparkles: :
-I studied _**Bsc. Computer Technology**_ :mortar_board: .<br/>
-I am currently enrolled in a  _**software engineering**_ :blossom: bootcamp.<br/>
-I love programming and learning how things work under the hood :wrench:.<br/>
+## I am a _**Bsc. Computer Technology**_  graduate :mortar_board:  & _**fullstack software developer**_ :blossom:.<br/>
+I enjoy programming and learning how things work under the hood :wrench:.<br/>
 
-I enjoy working in the social development space:couple::couple: and particularly on projects that have synergies between technology & social development.
+I have previously worked in the social development spaces:couple::couple: and marvel at the impact that synergies between technology & social development can have!:smiley_cat:.
 <br/>
 
 ### 📫 How to reach me: <br/>
@@ -13,7 +11,7 @@ I build my writing :pencil2::page_with_curl: muscle on [Medium](https://medium.c
 You can also say hi:wave: on [LinkedIn](https://www.linkedin.com/in/ashley-njeri-njoroge-404468187/) :earth_africa: 
 <br/>
 
-### :smiley_cat:_Cheers!_ :+1: :star2:
+### :smiley:_Cheers!_ :+1: :star2:
 
 
 <!--
