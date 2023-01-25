@@ -1,6 +1,6 @@
 # Hey there, I'm Ashley :sparkles: 
 
-## I am a  _**fullstack software developer**_ :blossom: &  _**Bsc. Computer Technology**_  graduate :mortar_board: .<br/>
+## I am a  _**Fullstack Software Developer**_ :blossom: &  _**Bsc. Computer Technology**_  Graduate :mortar_board: .<br/>
 I enjoy coding and learning how things work under the hood :wrench:.<br/>
 
 I have experience with the following **languages** & **frameworks**: <br/>
@@ -38,7 +38,10 @@ I have experience with the following **languages** & **frameworks**: <br/>
 Previously, I have worked in the social development sector:couple::couple: and marvel at the impact that synergies between technology & social development can have!:smiley_cat:.
 <br/>
 
-### 📫 Let's connect!: <br/>
+### ⚡ Fun fact:
+I thrive in collaborative projects and understanding different POVs thus learning!
+
+### 📫 Let's connect: <br/>
 I build my writing :pencil2::page_with_curl: muscle on [Medium](https://medium.com/@ashnjoroge).<br/>
 You can also say hi:wave: on [LinkedIn](https://www.linkedin.com/in/ashley-njeri-njoroge-404468187/) :earth_africa: 
 <br/>
