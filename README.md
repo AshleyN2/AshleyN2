@@ -15,7 +15,7 @@ I have experience with the following **languages** & **frameworks**: <br/>
 
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 
-<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /> <br />
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 
@@ -35,7 +35,7 @@ I have experience with the following **languages** & **frameworks**: <br/>
 
 <br />
 
-Previously, I have worked in the social development sector:couple::couple: and marvel at the impact that synergies between technology & social development can have!:smiley_cat:.
+Previously, I have worked in the social development sector and marvel at the <br /> impact that synergies between technology & social development can have!:smiley_cat:.
 <br/>
 
 ### ⚡ Fun fact:
