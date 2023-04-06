@@ -46,6 +46,12 @@ I build my writing :pencil2::page_with_curl: muscle on [Medium](https://medium.c
 You can also say hi:wave: on [LinkedIn](https://www.linkedin.com/in/ashley-njeri-njoroge-404468187/) :earth_africa: 
 <br/>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=AshleyN2&show_icons=true&locale=en" alt="AshleyN2" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AshleyN2&" alt="AshleyN2" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AshleyN2&show_icons=true&locale=en&layout=compact" alt="AshleyN2" /><p
+
 ### :smiley:_Cheers!_ :+1: :star2:
 
 
