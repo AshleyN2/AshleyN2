@@ -1,6 +1,6 @@
 # Hey there, I'm Ashley :sparkles: 
 
-## A gurlie with _**Fullstack Software Developement Experience,**_ :blossom: &  _**Bsc. Computer Technology**_  Graduate :mortar_board: & currently doing my Master's.<br/>
+## A gurlie with _**Fullstack Software Developement Experience**_ :blossom: &  _**Bsc. Computer Technology**_  Graduate :mortar_board: & currently doing my Master's.<br/>
 [My Portfolio Website](https://ashley-n-njoroge.vercel.app/)<br/>
 
 I enjoy coding and learning how things work under the hood :wrench:.<br/>
